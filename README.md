@@ -36,6 +36,14 @@ This project servers as a foundation for future projects based on facial detecti
 
 ![Support](https://user-images.githubusercontent.com/78022544/170635475-93b44da4-4f93-4185-a09d-4fbe144b0a03.png)
 
+## Steps to Use the Program
+1. Copy the entire file to your system
+2. run requirements.txt file in Face-Recognition-Attendance-System
+command: pip install -r requirements.txt
+3. change host, username, password and database according to your system (in employee.py)
+4. change the login id and password according to your wish (in login.py)
+5. run login.py in the terminal.
+
 ## Note 📝
 Here entire dataset is empty
 ## Thank You
