@@ -19,7 +19,7 @@ This project servers as a foundation for future projects based on facial detecti
 5. View attendance report <br>
 
 ## Documentation 📰
-[This]() folder contains all the related UML diagrams.
+[This](https://github.com/IshitaJain16108/Face-Recognition-Attendance-System/tree/main/Documentation) folder contains all the related UML diagrams.
 
 ## UI 💻
 ![login_pg](https://user-images.githubusercontent.com/78022544/170635374-e3f40b7b-0f01-426a-8ed2-c6254a3beea8.png)
