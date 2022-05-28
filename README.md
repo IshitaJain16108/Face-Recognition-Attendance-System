@@ -26,7 +26,7 @@ This project servers as a foundation for future projects based on facial detecti
 
 ![Main_window](https://user-images.githubusercontent.com/78022544/170635040-8ecf5ac9-40fa-4ea0-a966-1c0f5dfb44e1.png)
 
-![Employee_Details](https://user-images.githubusercontent.com/78022544/170635398-db65e4a9-3237-434d-91eb-35e841fc6cea.png)
+![Employee_Details](https://github.com/IshitaJain16108/Face-Recognition-Attendance-System/blob/main/screenshots/Employee_Details.png)
 
 ![Take_Attendance](https://user-images.githubusercontent.com/78022544/170635438-edbc7f5c-d779-494a-b77d-c75bcb467cc8.png)
 
