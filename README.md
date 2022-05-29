@@ -1,7 +1,7 @@
 ![Project Logo](https://github.com/IshitaJain16108/Face-Recognition-Attendance-System/blob/main/screenshots/Main_window.png)
 
 ## Face Recognition Attendance System 💻
-[Link to the Presentation]()
+[Link to the Presentation](https://drive.google.com/file/d/1ZRxdmeUcpycbhJGDk6bAkvl-SGNIhbBf/view?usp=sharing)
 
 This project aims at building a face recognition attendance system. It covers area such as face detection, image capturing and image recognition, along with a tkinter GUI based window which cater to various use cases of the system such as employee management, viewing and modifying attendance reports, etc. This project intends to serve as a substitute for traditional manual attendance systems. It can be used in offices, schools, and organizations where seecurity is essential.
 
@@ -38,11 +38,11 @@ This project servers as a foundation for future projects based on facial detecti
 
 ## Steps to Use the Program
 1. Copy the entire file to your system
-2. run requirements.txt file in Face-Recognition-Attendance-System
-command: pip install -r requirements.txt
+2. run `requirements.txt` file in `Face-Recognition-Attendance-System` directory <br>
+command: `pip install -r requirements.txt`
 3. change host, username, password and database according to your system (in employee.py)
 4. change the login id and password according to your wish (in login.py)
-5. run login.py in the terminal.
+5. run `login.py` in the terminal.
 
 ## Note 📝
 Here entire dataset is empty
