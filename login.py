@@ -47,7 +47,7 @@ class Login_Window:
         loginbtn.place(x=110,y=280,width=120,height=35)
 
     def login(self):
-        if self.txtuser.get()=="ishu" and self.txtpswrd.get()=="ish":
+        if self.txtuser.get()=="***" and self.txtpswrd.get()=="***":
             messagebox.showinfo("Success","Welcome")
         elif self.txtuser.get()=="" or self.txtpswrd.get()=="":
             messagebox.showerror("Error","All Fields are required")
