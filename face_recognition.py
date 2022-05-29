@@ -55,7 +55,7 @@ class Face_Recognition:
                 print(id)
                 confidence=int(100*((1-predict/300)))
 
-                conn=mysql.connector.connect(host='localhost',user='root',password='8295351575Ij@',database='mydata')
+                conn=mysql.connector.connect(host='***',user='***',password='***',database='***')
                 my_cursor=conn.cursor()
                 my_cursor.execute("select Employee_ID from employee where Employee_Id="+str(id))
                 e=my_cursor.fetchone()
