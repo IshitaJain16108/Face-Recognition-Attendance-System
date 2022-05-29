@@ -22,30 +22,18 @@ This project servers as a foundation for future projects based on facial detecti
 [This](https://github.com/IshitaJain16108/Face-Recognition-Attendance-System/tree/main/Documentation) folder contains all the related UML diagrams.
 
 ## UI 💻
-1. Login Page<br>
 ![login_pg](https://user-images.githubusercontent.com/78022544/170635374-e3f40b7b-0f01-426a-8ed2-c6254a3beea8.png)
-<br>
-2. Main window
-    - Here you have access to all the features of the attendance system, like, employee management, take attendance, etc.<br>
+
 ![Main_window](https://user-images.githubusercontent.com/78022544/170635040-8ecf5ac9-40fa-4ea0-a966-1c0f5dfb44e1.png)
-<br>
-3. Employee Details
-    - Add/Delete/Update employee information<br>
+
 ![Employee_Details](https://github.com/IshitaJain16108/Face-Recognition-Attendance-System/blob/main/screenshots/Employee_Details.png)
-<br>
-4. Train Images
-    - After taking or updating images you need to train them so that the models can be trained and saved to classifier<br>
+
 ![Train_images](https://user-images.githubusercontent.com/78022544/170635469-584f492e-0850-4813-b8d3-00d06370770c.png)
-<br>
-5. Take Attendance
-    - After capturing images and training them, you can easily use reognizer to take attendance<br>
+
 ![Take_Attendance](https://user-images.githubusercontent.com/78022544/170635438-edbc7f5c-d779-494a-b77d-c75bcb467cc8.png)
-<br>
-6. Check Attendance
-    - Here you can check attendance after importing data using import button.<br>
+
 ![Check_Attendance](https://user-images.githubusercontent.com/78022544/170635415-146e1354-f30c-4aee-85f4-5c531e35ccab.png)
-7. Support
-    - There is a support window as well where I've provided my email id, feel free to ask any query over there<br>
+
 ![Support](https://user-images.githubusercontent.com/78022544/170635475-93b44da4-4f93-4185-a09d-4fbe144b0a03.png)
 
 ## Steps to Use the Program
